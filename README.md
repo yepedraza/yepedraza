@@ -1,15 +1,25 @@
-## About me 🤔
-Yahhō! ^^
+## Yahhō! I'm Yery Pedraza ^^ 
 
-I'm Yery Pedraza.  
+### 🤠About me:
+* I'm currently finishing my studies as a mechatronics engineer 🤖!
+* I'm self-studying to be a machine learning engineer🤓, any tip it's welcome😉.
+* Languages spoken: English and Spanish 💬.
+* *私の夢は日本です* 🌺
 
-I born in Bogotá.
+## 👤 Connect with me:
+[<img align="left" alt="yepedraza | Twitter" width="25" height="30" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="yepedraza | LinkedIn" width="25" height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+<br>
+## 🧰 Languages and Tools
+<img align="left" alt="python" width="35" height="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="matlab" width="35" height="35" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" /> 
+<img align="left" alt="cplusplus" width="35" height="35" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="vscode" width="35" height="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+<img align="left" alt="git" width="35" height="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="github" width="35" height="35" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="tf" width="35" height="35" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
 
-Actually I'm currently finishing my studies as a professional on mechatronics engineering 🤖!
 
-And I'm self-studying to be a machine learning engineer🤓, any tip it's welcome😉.
-
-## About my repositories
-Actually the most part of my repositories are projects and knowledges of my career and are developed in my study times but, I wanna start to create some personal projects focused on data sciences and other... *occasional things*🤭.
-
-And that's it. If you want to communicate with me you can MD in the Twitter of my description 😊
+<!-- Abbreviations -->
+[twitter]: https://twitter.com/yepedraza/
+[linkedin]: https://www.linkedin.com/in/yery-pedraza-agudelo-84aba31b7/
