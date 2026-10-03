@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="369" viewBox="0 0 800 369">
+<rect width="800" height="369" rx="12" fill="#1e1e2e"/>
+<rect width="800" height="36" rx="12" fill="#181825"/><rect y="24" width="800" height="12" fill="#181825"/>
+<circle cx="24" cy="18" r="6" fill="#f38ba8"/><circle cx="46" cy="18" r="6" fill="#f9e2af"/><circle cx="68" cy="18" r="6" fill="#a6e3a1"/>
+<text x="400" y="23" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" fill="#6c7086">yery@pedraza: ~</text>
+<clipPath id="c0"><rect x="16" y="65" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="0.4s" fill="freeze"/></rect></clipPath>
+<text x="24" y="84" clip-path="url(#c0)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#a6e3a1">$ </tspan><tspan fill="#cdd6f4">neofetch</tspan></text>
+<clipPath id="c1"><rect x="16" y="90" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="0.9500000000000001s" fill="freeze"/></rect></clipPath>
+<text x="24" y="109" clip-path="url(#c1)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#c792ea">yery</tspan><tspan fill="#6c7086">@</tspan><tspan fill="#c792ea">pedraza</tspan></text>
+<clipPath id="c2"><rect x="16" y="115" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="1.5s" fill="freeze"/></rect></clipPath>
+<text x="24" y="134" clip-path="url(#c2)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#6c7086">──────────────────────────────</tspan></text>
+<clipPath id="c3"><rect x="16" y="140" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="2.0500000000000003s" fill="freeze"/></rect></clipPath>
+<text x="24" y="159" clip-path="url(#c3)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#89ddff">OS     </tspan><tspan fill="#cdd6f4">Mechatronic Engineer</tspan></text>
+<clipPath id="c4"><rect x="16" y="165" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="2.6s" fill="freeze"/></rect></clipPath>
+<text x="24" y="184" clip-path="url(#c4)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#89ddff">Focus  </tspan><tspan fill="#cdd6f4">Deep Learning · NLP · Vision</tspan></text>
+<clipPath id="c5"><rect x="16" y="190" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="3.15s" fill="freeze"/></rect></clipPath>
+<text x="24" y="209" clip-path="url(#c5)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#89ddff">Stack  </tspan><tspan fill="#cdd6f4">Python · TensorFlow · NumPy · Pandas</tspan></text>
+<clipPath id="c6"><rect x="16" y="215" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="3.7s" fill="freeze"/></rect></clipPath>
+<text x="24" y="234" clip-path="url(#c6)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#89ddff">Tools  </tspan><tspan fill="#cdd6f4">Jupyter · VS Code · Git · MATLAB</tspan></text>
+<clipPath id="c7"><rect x="16" y="240" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="4.250000000000001s" fill="freeze"/></rect></clipPath>
+<text x="24" y="259" clip-path="url(#c7)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#89ddff">Lang   </tspan><tspan fill="#cdd6f4">es · en · ja</tspan></text>
+<clipPath id="c8"><rect x="16" y="265" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="4.800000000000001s" fill="freeze"/></rect></clipPath>
+<text x="24" y="284" clip-path="url(#c8)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#89ddff">Loc    </tspan><tspan fill="#cdd6f4">Bogotá, CO</tspan></text>
+<clipPath id="c9"><rect x="16" y="290" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="5.3500000000000005s" fill="freeze"/></rect></clipPath>
+<text x="24" y="309" clip-path="url(#c9)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#89ddff">Dream  </tspan><tspan fill="#cdd6f4">日本</tspan></text>
+<clipPath id="c10"><rect x="16" y="315" width="0" height="25"><animate attributeName="width" from="0" to="768" dur="0.5s" begin="5.9s" fill="freeze"/></rect></clipPath>
+<text x="24" y="334" clip-path="url(#c10)" xml:space="preserve" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="15"><tspan fill="#a6e3a1">$ </tspan></text>
+<rect x="42" y="320" width="9" height="18" fill="#c792ea" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="6.4s" repeatCount="indefinite"/></rect>
+</svg>
